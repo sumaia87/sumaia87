@@ -78,28 +78,83 @@ Responsibilities:
 
 ## 🚀 Featured QA Projects
 
-<p align="left">
-<a href="https://github.com/sumaia87/RestfulBooker_Api-testing_project"><img src="https://img.shields.io/badge/📌_RestfulBooker_API_Testing-00F5D4?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://github.com/sumaia87/RestfulBooker_Api-testing_project">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6C37,100:00F5D4&height=65&text=📌%20RestfulBooker%20API%20Testing&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+</a>
+<p>&nbsp;&nbsp;&nbsp;End-to-end API test suite covering booking creation, auth, and CRUD validation.<br/>
+&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<a href="https://github.com/sumaia87/RestfulBooker_Api-testing_project"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=00F5D4"/></a>
 </p>
-<p align="left">
-<a href="https://github.com/sumaia87/Chorki_website_Testing"><img src="https://img.shields.io/badge/📌_Chorki_Website_Testing-A239EA?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="https://github.com/sumaia87/Chorki_website_Testing">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A239EA,100:00C2FF&height=65&text=📌%20Chorki%20Website%20Testing&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+</a>
+<p>&nbsp;&nbsp;&nbsp;Manual test coverage for a video streaming platform — functional & UI flows.<br/>
+&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Manual_Testing-A239EA?style=flat-square"/>
+<a href="https://github.com/sumaia87/Chorki_website_Testing"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=A239EA"/></a>
 </p>
-<p align="left">
-<a href="https://github.com/sumaia87/Shohoz.com-manual-testing"><img src="https://img.shields.io/badge/📌_Shohoz_Manual_Testing-6A2C91?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="https://github.com/sumaia87/Shohoz.com-manual-testing">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A2C91,100:FF61D2&height=65&text=📌%20Shohoz%20Manual%20Testing&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+</a>
+<p>&nbsp;&nbsp;&nbsp;Structured test cases & full test plan for a ticket booking platform.<br/>
+&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Manual_Testing-6A2C91?style=flat-square"/>
+<a href="https://github.com/sumaia87/Shohoz.com-manual-testing"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=FF61D2"/></a>
 </p>
 
 ---
 
 ## 💻 Development Projects
 
-<p align="left">
-<a href="https://github.com/sumaia87/Complete_Blog_website"><img src="https://img.shields.io/badge/🌐_Complete_Blog_Website-302B63?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/sumaia87/weatherApp"><img src="https://img.shields.io/badge/🌦_Weather_App-302B63?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/sumaia87/templete_Design"><img src="https://img.shields.io/badge/🎨_Template_Design-302B63?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/sumaia87/AI-Project"><img src="https://img.shields.io/badge/🤖_AI_Project-302B63?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/sumaia87/atmManagement"><img src="https://img.shields.io/badge/🏧_ATM_Management-302B63?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/sumaia87/snakeGame"><img src="https://img.shields.io/badge/🐍_Snake_Game-302B63?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/sumaia87/tic_toc_toe-Game"><img src="https://img.shields.io/badge/⭕_Tic_Tac_Toe-302B63?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/sumaia87/Complete_Blog_website">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:777BB4,100:00F5D4&height=55&text=🌐%20Complete%20Blog%20Website&fontSize=18&fontColor=ffffff&fontAlignY=60" width="100%"/>
+</a>
+<p>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<a href="https://github.com/sumaia87/Complete_Blog_website"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=00F5D4"/></a>
+</p>
+
+<a href="https://github.com/sumaia87/weatherApp">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:00F5D4&height=55&text=🌦%20Weather%20App&fontSize=18&fontColor=ffffff&fontAlignY=60" width="100%"/>
+</a>
+<p>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<a href="https://github.com/sumaia87/weatherApp"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=00F5D4"/></a>
+</p>
+
+<a href="https://github.com/sumaia87/templete_Design">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34F26,100:FFA36C&height=55&text=🎨%20Template%20Design&fontSize=18&fontColor=ffffff&fontAlignY=60" width="100%"/>
+</a>
+<p>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<a href="https://github.com/sumaia87/templete_Design"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=E34F26"/></a>
+</p>
+
+<a href="https://github.com/sumaia87/AI-Project">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3776AB,100:FFD43B&height=55&text=🤖%20AI%20Project&fontSize=18&fontColor=ffffff&fontAlignY=60" width="100%"/>
+</a>
+<p>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<a href="https://github.com/sumaia87/AI-Project"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=FFD43B"/></a>
+</p>
+
+<a href="https://github.com/sumaia87/atmManagement">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C6BC0,100:00E5FF&height=55&text=🏧%20ATM%20Management&fontSize=18&fontColor=ffffff&fontAlignY=60" width="100%"/>
+</a>
+<p>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<a href="https://github.com/sumaia87/atmManagement"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=00E5FF"/></a>
+</p>
+
+<a href="https://github.com/sumaia87/snakeGame">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:00E5FF&height=55&text=🐍%20Snake%20Game&fontSize=18&fontColor=ffffff&fontAlignY=60" width="100%"/>
+</a>
+<p>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<a href="https://github.com/sumaia87/snakeGame"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=00E5FF"/></a>
+</p>
+
+<a href="https://github.com/sumaia87/tic_toc_toe-Game">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD43B,100:3776AB&height=55&text=⭕%20Tic%20Tac%20Toe&fontSize=18&fontColor=ffffff&fontAlignY=60" width="100%"/>
+</a>
+<p>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<a href="https://github.com/sumaia87/tic_toc_toe-Game"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=FFD43B"/></a>
 </p>
 
 ---
