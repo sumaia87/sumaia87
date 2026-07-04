@@ -64,6 +64,7 @@
 
 ### Software Quality Assurance Engineer
 **Next Page Technology Ltd.**
+
 **Project:** EduGuard360 -- School Management System
 
 Responsibilities:
