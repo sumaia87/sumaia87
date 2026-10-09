@@ -30,7 +30,7 @@
 - 🏫 Working on **EduGuard360 -- School Management System**, an accounting ERP and an approval workflow
 - ✅ Manual & UI Testing &nbsp;|&nbsp; ✅ API Testing (Postman) &nbsp;|&nbsp; ✅ Mobile App Testing (Android)
 - ✅ Test Case Design &nbsp;|&nbsp; ✅ Bug Reporting &nbsp;|&nbsp; ✅ Regression Testing
-- 🌱 Learning Playwright (TypeScript), Selenium (Java) & JMeter
+- ⚡ Test Automation with Playwright (TypeScript) & Performance Testing with JMeter
 - 🎯 Goal: Become an Automation QA Engineer
 
 ---
@@ -41,7 +41,6 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
@@ -185,10 +184,6 @@
 ## 📚 Currently Learning
 
 <p align="left">
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
 
